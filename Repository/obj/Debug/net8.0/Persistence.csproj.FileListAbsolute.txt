@@ -1,0 +1,17 @@
+F:\BasicBilling\Repository\bin\Debug\net8.0\Persistence.deps.json
+F:\BasicBilling\Repository\bin\Debug\net8.0\Persistence.runtimeconfig.json
+F:\BasicBilling\Repository\bin\Debug\net8.0\Persistence.dll
+F:\BasicBilling\Repository\bin\Debug\net8.0\Persistence.pdb
+F:\BasicBilling\Repository\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+F:\BasicBilling\Repository\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\BasicBilling\Repository\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+F:\BasicBilling\Repository\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+F:\BasicBilling\Repository\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+F:\BasicBilling\Repository\obj\Debug\net8.0\Persistence.dll
+F:\BasicBilling\Repository\obj\Debug\net8.0\refint\Persistence.dll
+F:\BasicBilling\Repository\obj\Debug\net8.0\Persistence.pdb
+F:\BasicBilling\Repository\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+F:\BasicBilling\Repository\obj\Debug\net8.0\ref\Persistence.dll
+F:\BasicBilling\Repository\bin\Debug\net8.0\Domain.dll
+F:\BasicBilling\Repository\bin\Debug\net8.0\Domain.pdb
+F:\BasicBilling\Repository\obj\Debug\net8.0\Persistence.csproj.CopyComplete

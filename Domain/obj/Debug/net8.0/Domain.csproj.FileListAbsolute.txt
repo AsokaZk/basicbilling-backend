@@ -1,0 +1,12 @@
+F:\BasicBilling\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\BasicBilling\Domain\bin\Debug\net8.0\Domain.dll
+F:\BasicBilling\Domain\bin\Debug\net8.0\Domain.pdb
+F:\BasicBilling\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\BasicBilling\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\BasicBilling\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\BasicBilling\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\BasicBilling\Domain\obj\Debug\net8.0\Domain.dll
+F:\BasicBilling\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\BasicBilling\Domain\obj\Debug\net8.0\Domain.pdb
+F:\BasicBilling\Domain\obj\Debug\net8.0\ref\Domain.dll
+F:\BasicBilling\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
