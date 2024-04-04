@@ -28,14 +28,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\BasicBilling\\Common\\Common.csproj": {
-                "projectPath": "F:\\BasicBilling\\Common\\Common.csproj"
+              "F:\\BasicBilling\\BasicBilling.Common\\BasicBilling.Common.csproj": {
+                "projectPath": "F:\\BasicBilling\\BasicBilling.Common\\BasicBilling.Common.csproj"
               },
-              "F:\\BasicBilling\\Core\\Core.csproj": {
-                "projectPath": "F:\\BasicBilling\\Core\\Core.csproj"
+              "F:\\BasicBilling\\BasicBilling.Core\\BasicBilling.Core.csproj": {
+                "projectPath": "F:\\BasicBilling\\BasicBilling.Core\\BasicBilling.Core.csproj"
               },
-              "F:\\BasicBilling\\Repository\\Persistence.csproj": {
-                "projectPath": "F:\\BasicBilling\\Repository\\Persistence.csproj"
+              "F:\\BasicBilling\\BasicBilling.Persistence\\BasicBilling.Persistence.csproj": {
+                "projectPath": "F:\\BasicBilling\\BasicBilling.Persistence\\BasicBilling.Persistence.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "F:\\BasicBilling\\Common\\Common.csproj": {
+    "F:\\BasicBilling\\BasicBilling.Common\\BasicBilling.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\BasicBilling\\Common\\Common.csproj",
-        "projectName": "Common",
-        "projectPath": "F:\\BasicBilling\\Common\\Common.csproj",
+        "projectUniqueName": "F:\\BasicBilling\\BasicBilling.Common\\BasicBilling.Common.csproj",
+        "projectName": "BasicBilling.Common",
+        "projectPath": "F:\\BasicBilling\\BasicBilling.Common\\BasicBilling.Common.csproj",
         "packagesPath": "C:\\Users\\ashok\\.nuget\\packages\\",
-        "outputPath": "F:\\BasicBilling\\Common\\obj\\",
+        "outputPath": "F:\\BasicBilling\\BasicBilling.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ashok\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -147,14 +147,14 @@
         }
       }
     },
-    "F:\\BasicBilling\\Core\\Core.csproj": {
+    "F:\\BasicBilling\\BasicBilling.Core\\BasicBilling.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\BasicBilling\\Core\\Core.csproj",
-        "projectName": "Core",
-        "projectPath": "F:\\BasicBilling\\Core\\Core.csproj",
+        "projectUniqueName": "F:\\BasicBilling\\BasicBilling.Core\\BasicBilling.Core.csproj",
+        "projectName": "BasicBilling.Core",
+        "projectPath": "F:\\BasicBilling\\BasicBilling.Core\\BasicBilling.Core.csproj",
         "packagesPath": "C:\\Users\\ashok\\.nuget\\packages\\",
-        "outputPath": "F:\\BasicBilling\\Core\\obj\\",
+        "outputPath": "F:\\BasicBilling\\BasicBilling.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ashok\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -171,8 +171,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\BasicBilling\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\BasicBilling\\Domain\\Domain.csproj"
+              "F:\\BasicBilling\\BasicBilling.Domain\\BasicBilling.Domain.csproj": {
+                "projectPath": "F:\\BasicBilling\\BasicBilling.Domain\\BasicBilling.Domain.csproj"
               }
             }
           }
@@ -212,14 +212,14 @@
         }
       }
     },
-    "F:\\BasicBilling\\Domain\\Domain.csproj": {
+    "F:\\BasicBilling\\BasicBilling.Domain\\BasicBilling.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\BasicBilling\\Domain\\Domain.csproj",
-        "projectName": "Domain",
-        "projectPath": "F:\\BasicBilling\\Domain\\Domain.csproj",
+        "projectUniqueName": "F:\\BasicBilling\\BasicBilling.Domain\\BasicBilling.Domain.csproj",
+        "projectName": "BasicBilling.Domain",
+        "projectPath": "F:\\BasicBilling\\BasicBilling.Domain\\BasicBilling.Domain.csproj",
         "packagesPath": "C:\\Users\\ashok\\.nuget\\packages\\",
-        "outputPath": "F:\\BasicBilling\\Domain\\obj\\",
+        "outputPath": "F:\\BasicBilling\\BasicBilling.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ashok\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -273,14 +273,14 @@
         }
       }
     },
-    "F:\\BasicBilling\\Repository\\Persistence.csproj": {
+    "F:\\BasicBilling\\BasicBilling.Persistence\\BasicBilling.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\BasicBilling\\Repository\\Persistence.csproj",
-        "projectName": "Persistence",
-        "projectPath": "F:\\BasicBilling\\Repository\\Persistence.csproj",
+        "projectUniqueName": "F:\\BasicBilling\\BasicBilling.Persistence\\BasicBilling.Persistence.csproj",
+        "projectName": "BasicBilling.Persistence",
+        "projectPath": "F:\\BasicBilling\\BasicBilling.Persistence\\BasicBilling.Persistence.csproj",
         "packagesPath": "C:\\Users\\ashok\\.nuget\\packages\\",
-        "outputPath": "F:\\BasicBilling\\Repository\\obj\\",
+        "outputPath": "F:\\BasicBilling\\BasicBilling.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ashok\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -297,8 +297,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\BasicBilling\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\BasicBilling\\Domain\\Domain.csproj"
+              "F:\\BasicBilling\\BasicBilling.Domain\\BasicBilling.Domain.csproj": {
+                "projectPath": "F:\\BasicBilling\\BasicBilling.Domain\\BasicBilling.Domain.csproj"
               }
             }
           }

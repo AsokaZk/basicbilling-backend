@@ -18,9 +18,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Common\Common.csproj" />
-    <ProjectReference Include="..\Core\Core.csproj" />
-    <ProjectReference Include="..\Repository\Persistence.csproj" />
+    <ProjectReference Include="..\BasicBilling.Core\BasicBilling.Core.csproj" />
+    <ProjectReference Include="..\BasicBilling.Common\BasicBilling.Common.csproj" />
+    <ProjectReference Include="..\BasicBilling.Persistence\BasicBilling.Persistence.csproj" />
   </ItemGroup>
 
 </Project>
